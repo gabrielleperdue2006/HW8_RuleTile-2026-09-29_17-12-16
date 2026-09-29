@@ -1,0 +1,7004 @@
+fileFormatVersion: 2
+guid: 0a19d4e6430a4428883d8729c3cdf16a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7262143722722750184
+    second: 16x16_Jerom_CC-BY-SA-3.0_0
+  - first:
+      213: 4837346708838309400
+    second: 16x16_Jerom_CC-BY-SA-3.0_1
+  - first:
+      213: -493856390467994156
+    second: 16x16_Jerom_CC-BY-SA-3.0_2
+  - first:
+      213: 3212680699694634285
+    second: 16x16_Jerom_CC-BY-SA-3.0_3
+  - first:
+      213: 140916944502082199
+    second: 16x16_Jerom_CC-BY-SA-3.0_4
+  - first:
+      213: 1378871505308801766
+    second: 16x16_Jerom_CC-BY-SA-3.0_5
+  - first:
+      213: -7355137296171442045
+    second: 16x16_Jerom_CC-BY-SA-3.0_6
+  - first:
+      213: 6237388291754531027
+    second: 16x16_Jerom_CC-BY-SA-3.0_7
+  - first:
+      213: 7765597133681877540
+    second: 16x16_Jerom_CC-BY-SA-3.0_8
+  - first:
+      213: 1763274621296493537
+    second: 16x16_Jerom_CC-BY-SA-3.0_9
+  - first:
+      213: -8717205052698958498
+    second: 16x16_Jerom_CC-BY-SA-3.0_10
+  - first:
+      213: -1566570190121162983
+    second: 16x16_Jerom_CC-BY-SA-3.0_11
+  - first:
+      213: -4381230119170320358
+    second: 16x16_Jerom_CC-BY-SA-3.0_12
+  - first:
+      213: -2745800146978857303
+    second: 16x16_Jerom_CC-BY-SA-3.0_13
+  - first:
+      213: -3466729759430754852
+    second: 16x16_Jerom_CC-BY-SA-3.0_14
+  - first:
+      213: -87140338868940196
+    second: 16x16_Jerom_CC-BY-SA-3.0_15
+  - first:
+      213: -7046890239413629132
+    second: 16x16_Jerom_CC-BY-SA-3.0_16
+  - first:
+      213: 5649623539465277461
+    second: 16x16_Jerom_CC-BY-SA-3.0_17
+  - first:
+      213: -2243861675996240807
+    second: 16x16_Jerom_CC-BY-SA-3.0_18
+  - first:
+      213: 5397801518892828987
+    second: 16x16_Jerom_CC-BY-SA-3.0_19
+  - first:
+      213: -374766359814032045
+    second: 16x16_Jerom_CC-BY-SA-3.0_20
+  - first:
+      213: -4584297747256261657
+    second: 16x16_Jerom_CC-BY-SA-3.0_21
+  - first:
+      213: 835768735506955729
+    second: 16x16_Jerom_CC-BY-SA-3.0_22
+  - first:
+      213: 5227184134330359839
+    second: 16x16_Jerom_CC-BY-SA-3.0_23
+  - first:
+      213: 7742198088637225599
+    second: 16x16_Jerom_CC-BY-SA-3.0_24
+  - first:
+      213: -1529617754613759244
+    second: 16x16_Jerom_CC-BY-SA-3.0_25
+  - first:
+      213: 2791168781919926502
+    second: 16x16_Jerom_CC-BY-SA-3.0_26
+  - first:
+      213: 8206192011986902732
+    second: 16x16_Jerom_CC-BY-SA-3.0_27
+  - first:
+      213: -7965751576291919371
+    second: 16x16_Jerom_CC-BY-SA-3.0_28
+  - first:
+      213: 8841824288881226677
+    second: 16x16_Jerom_CC-BY-SA-3.0_29
+  - first:
+      213: -6494262647511135123
+    second: 16x16_Jerom_CC-BY-SA-3.0_30
+  - first:
+      213: 8218524763935140269
+    second: 16x16_Jerom_CC-BY-SA-3.0_31
+  - first:
+      213: -5782217863787547458
+    second: 16x16_Jerom_CC-BY-SA-3.0_32
+  - first:
+      213: 2107191693851482389
+    second: 16x16_Jerom_CC-BY-SA-3.0_33
+  - first:
+      213: -2329463279240678909
+    second: 16x16_Jerom_CC-BY-SA-3.0_34
+  - first:
+      213: 1329069288164399304
+    second: 16x16_Jerom_CC-BY-SA-3.0_35
+  - first:
+      213: 8224063790432775780
+    second: 16x16_Jerom_CC-BY-SA-3.0_36
+  - first:
+      213: -1098398894782781366
+    second: 16x16_Jerom_CC-BY-SA-3.0_37
+  - first:
+      213: -1272042963670350812
+    second: 16x16_Jerom_CC-BY-SA-3.0_38
+  - first:
+      213: 3299182448326670913
+    second: 16x16_Jerom_CC-BY-SA-3.0_39
+  - first:
+      213: 6749553732000372256
+    second: 16x16_Jerom_CC-BY-SA-3.0_40
+  - first:
+      213: 4334185687161124020
+    second: 16x16_Jerom_CC-BY-SA-3.0_41
+  - first:
+      213: -7437350771389755373
+    second: 16x16_Jerom_CC-BY-SA-3.0_42
+  - first:
+      213: 7141054517731287494
+    second: 16x16_Jerom_CC-BY-SA-3.0_43
+  - first:
+      213: 8332786077186513600
+    second: 16x16_Jerom_CC-BY-SA-3.0_44
+  - first:
+      213: 3975701474033701476
+    second: 16x16_Jerom_CC-BY-SA-3.0_45
+  - first:
+      213: 8319784498743893346
+    second: 16x16_Jerom_CC-BY-SA-3.0_46
+  - first:
+      213: -4924373745130953192
+    second: 16x16_Jerom_CC-BY-SA-3.0_47
+  - first:
+      213: 3497964812347824986
+    second: 16x16_Jerom_CC-BY-SA-3.0_48
+  - first:
+      213: 4343555610491890589
+    second: 16x16_Jerom_CC-BY-SA-3.0_49
+  - first:
+      213: -8473774234364811343
+    second: 16x16_Jerom_CC-BY-SA-3.0_50
+  - first:
+      213: -8190845708244736776
+    second: 16x16_Jerom_CC-BY-SA-3.0_51
+  - first:
+      213: 3458844058731866843
+    second: 16x16_Jerom_CC-BY-SA-3.0_52
+  - first:
+      213: 4149089724562660065
+    second: 16x16_Jerom_CC-BY-SA-3.0_53
+  - first:
+      213: -6607429868660951148
+    second: 16x16_Jerom_CC-BY-SA-3.0_54
+  - first:
+      213: 3265881655326263186
+    second: 16x16_Jerom_CC-BY-SA-3.0_55
+  - first:
+      213: -6559033167979313716
+    second: 16x16_Jerom_CC-BY-SA-3.0_56
+  - first:
+      213: 13195108580070681
+    second: 16x16_Jerom_CC-BY-SA-3.0_57
+  - first:
+      213: 391564462639468519
+    second: 16x16_Jerom_CC-BY-SA-3.0_58
+  - first:
+      213: -3939610830981819107
+    second: 16x16_Jerom_CC-BY-SA-3.0_59
+  - first:
+      213: -7080963978691526974
+    second: 16x16_Jerom_CC-BY-SA-3.0_60
+  - first:
+      213: -8894892083430527001
+    second: 16x16_Jerom_CC-BY-SA-3.0_61
+  - first:
+      213: -5847597858559510594
+    second: 16x16_Jerom_CC-BY-SA-3.0_62
+  - first:
+      213: -4540730271115000226
+    second: 16x16_Jerom_CC-BY-SA-3.0_63
+  - first:
+      213: -1286554232120875249
+    second: 16x16_Jerom_CC-BY-SA-3.0_64
+  - first:
+      213: 8790604622800297851
+    second: 16x16_Jerom_CC-BY-SA-3.0_65
+  - first:
+      213: 4377755625956530823
+    second: 16x16_Jerom_CC-BY-SA-3.0_66
+  - first:
+      213: -744938584626697146
+    second: 16x16_Jerom_CC-BY-SA-3.0_67
+  - first:
+      213: 3782802143773726582
+    second: 16x16_Jerom_CC-BY-SA-3.0_68
+  - first:
+      213: 5825865381235904207
+    second: 16x16_Jerom_CC-BY-SA-3.0_69
+  - first:
+      213: -5345526437788088975
+    second: 16x16_Jerom_CC-BY-SA-3.0_70
+  - first:
+      213: 7385951410697299743
+    second: 16x16_Jerom_CC-BY-SA-3.0_71
+  - first:
+      213: 6563159535949318567
+    second: 16x16_Jerom_CC-BY-SA-3.0_72
+  - first:
+      213: 2184415039469791385
+    second: 16x16_Jerom_CC-BY-SA-3.0_73
+  - first:
+      213: -7204903560129789014
+    second: 16x16_Jerom_CC-BY-SA-3.0_74
+  - first:
+      213: -1449725035716370735
+    second: 16x16_Jerom_CC-BY-SA-3.0_75
+  - first:
+      213: 7464275068466278408
+    second: 16x16_Jerom_CC-BY-SA-3.0_76
+  - first:
+      213: 6136597937176442023
+    second: 16x16_Jerom_CC-BY-SA-3.0_77
+  - first:
+      213: 3334617977596922577
+    second: 16x16_Jerom_CC-BY-SA-3.0_78
+  - first:
+      213: 7728575050389753874
+    second: 16x16_Jerom_CC-BY-SA-3.0_79
+  - first:
+      213: -7280324010345408985
+    second: 16x16_Jerom_CC-BY-SA-3.0_80
+  - first:
+      213: 3148029618593818954
+    second: 16x16_Jerom_CC-BY-SA-3.0_81
+  - first:
+      213: -5989744620615812704
+    second: 16x16_Jerom_CC-BY-SA-3.0_82
+  - first:
+      213: 4113402033257487336
+    second: 16x16_Jerom_CC-BY-SA-3.0_83
+  - first:
+      213: 2359151405219139241
+    second: 16x16_Jerom_CC-BY-SA-3.0_84
+  - first:
+      213: -7048503345970285715
+    second: 16x16_Jerom_CC-BY-SA-3.0_85
+  - first:
+      213: 3442071320392199582
+    second: 16x16_Jerom_CC-BY-SA-3.0_86
+  - first:
+      213: -4147482127100440772
+    second: 16x16_Jerom_CC-BY-SA-3.0_87
+  - first:
+      213: 6272322162131124673
+    second: 16x16_Jerom_CC-BY-SA-3.0_88
+  - first:
+      213: -6738757130852261108
+    second: 16x16_Jerom_CC-BY-SA-3.0_89
+  - first:
+      213: 3343677519646209448
+    second: 16x16_Jerom_CC-BY-SA-3.0_90
+  - first:
+      213: -6833449169604887748
+    second: 16x16_Jerom_CC-BY-SA-3.0_91
+  - first:
+      213: -2740053621887445089
+    second: 16x16_Jerom_CC-BY-SA-3.0_92
+  - first:
+      213: -8390267835285557108
+    second: 16x16_Jerom_CC-BY-SA-3.0_93
+  - first:
+      213: -447547297254990170
+    second: 16x16_Jerom_CC-BY-SA-3.0_94
+  - first:
+      213: -5724270826875464039
+    second: 16x16_Jerom_CC-BY-SA-3.0_95
+  - first:
+      213: 7594952506153069439
+    second: 16x16_Jerom_CC-BY-SA-3.0_96
+  - first:
+      213: -2379201186565473845
+    second: 16x16_Jerom_CC-BY-SA-3.0_97
+  - first:
+      213: 6331304303229203022
+    second: 16x16_Jerom_CC-BY-SA-3.0_98
+  - first:
+      213: 653952406138205576
+    second: 16x16_Jerom_CC-BY-SA-3.0_99
+  - first:
+      213: -9085181427497465737
+    second: 16x16_Jerom_CC-BY-SA-3.0_100
+  - first:
+      213: -8228976174775227328
+    second: 16x16_Jerom_CC-BY-SA-3.0_101
+  - first:
+      213: -8966596175698950928
+    second: 16x16_Jerom_CC-BY-SA-3.0_102
+  - first:
+      213: 8994339173813542659
+    second: 16x16_Jerom_CC-BY-SA-3.0_103
+  - first:
+      213: -1535198696444681111
+    second: 16x16_Jerom_CC-BY-SA-3.0_104
+  - first:
+      213: -6004060369261664700
+    second: 16x16_Jerom_CC-BY-SA-3.0_105
+  - first:
+      213: -6768644841526988568
+    second: 16x16_Jerom_CC-BY-SA-3.0_106
+  - first:
+      213: -8488786280708706473
+    second: 16x16_Jerom_CC-BY-SA-3.0_107
+  - first:
+      213: -5958895983512230746
+    second: 16x16_Jerom_CC-BY-SA-3.0_108
+  - first:
+      213: 7374495814108711309
+    second: 16x16_Jerom_CC-BY-SA-3.0_109
+  - first:
+      213: -1515703414938705797
+    second: 16x16_Jerom_CC-BY-SA-3.0_110
+  - first:
+      213: 7056936763049659538
+    second: 16x16_Jerom_CC-BY-SA-3.0_111
+  - first:
+      213: -2250520956189565254
+    second: 16x16_Jerom_CC-BY-SA-3.0_112
+  - first:
+      213: 8928440921454833349
+    second: 16x16_Jerom_CC-BY-SA-3.0_113
+  - first:
+      213: -3249473257584639344
+    second: 16x16_Jerom_CC-BY-SA-3.0_114
+  - first:
+      213: 5916795696324032298
+    second: 16x16_Jerom_CC-BY-SA-3.0_115
+  - first:
+      213: 6349042322493590035
+    second: 16x16_Jerom_CC-BY-SA-3.0_116
+  - first:
+      213: 4183328181383771799
+    second: 16x16_Jerom_CC-BY-SA-3.0_117
+  - first:
+      213: 3263016797994103809
+    second: 16x16_Jerom_CC-BY-SA-3.0_118
+  - first:
+      213: 4044178374323788505
+    second: 16x16_Jerom_CC-BY-SA-3.0_119
+  - first:
+      213: 5766796781809850176
+    second: 16x16_Jerom_CC-BY-SA-3.0_120
+  - first:
+      213: -357869505280766325
+    second: 16x16_Jerom_CC-BY-SA-3.0_121
+  - first:
+      213: -5467248636703789960
+    second: 16x16_Jerom_CC-BY-SA-3.0_122
+  - first:
+      213: -4094273078067303639
+    second: 16x16_Jerom_CC-BY-SA-3.0_123
+  - first:
+      213: -3902102618755781213
+    second: 16x16_Jerom_CC-BY-SA-3.0_124
+  - first:
+      213: -793611204977824352
+    second: 16x16_Jerom_CC-BY-SA-3.0_125
+  - first:
+      213: 7148413958449828427
+    second: 16x16_Jerom_CC-BY-SA-3.0_126
+  - first:
+      213: -1658239922299781194
+    second: 16x16_Jerom_CC-BY-SA-3.0_127
+  - first:
+      213: 8135339113238350895
+    second: 16x16_Jerom_CC-BY-SA-3.0_128
+  - first:
+      213: 6730263776732827492
+    second: 16x16_Jerom_CC-BY-SA-3.0_129
+  - first:
+      213: 3960695239473588831
+    second: 16x16_Jerom_CC-BY-SA-3.0_130
+  - first:
+      213: -2288708103543529035
+    second: 16x16_Jerom_CC-BY-SA-3.0_131
+  - first:
+      213: -8372266278448557488
+    second: 16x16_Jerom_CC-BY-SA-3.0_132
+  - first:
+      213: 4249474520235314862
+    second: 16x16_Jerom_CC-BY-SA-3.0_133
+  - first:
+      213: 8794979172923976981
+    second: 16x16_Jerom_CC-BY-SA-3.0_134
+  - first:
+      213: 2801844223617262473
+    second: 16x16_Jerom_CC-BY-SA-3.0_135
+  - first:
+      213: -6970367934957857513
+    second: 16x16_Jerom_CC-BY-SA-3.0_136
+  - first:
+      213: -1384960454308030433
+    second: 16x16_Jerom_CC-BY-SA-3.0_137
+  - first:
+      213: 9089885025808472180
+    second: 16x16_Jerom_CC-BY-SA-3.0_138
+  - first:
+      213: -7270386951414141793
+    second: 16x16_Jerom_CC-BY-SA-3.0_139
+  - first:
+      213: 4485821061603364819
+    second: 16x16_Jerom_CC-BY-SA-3.0_140
+  - first:
+      213: -3406811005896903288
+    second: 16x16_Jerom_CC-BY-SA-3.0_141
+  - first:
+      213: 1845650676830214485
+    second: 16x16_Jerom_CC-BY-SA-3.0_142
+  - first:
+      213: 3218395644982860301
+    second: 16x16_Jerom_CC-BY-SA-3.0_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811174bb2cea73b90800000000000000
+      internalID: -7262143722722750184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e56bbc335b12340800000000000000
+      internalID: 4837346708838309400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd391cba387529f0800000000000000
+      internalID: -493856390467994156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d255d0a231cb59c20800000000000000
+      internalID: 3212680699694634285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a41e3e633a4f100800000000000000
+      internalID: 140916944502082199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ead6d8145cb22310800000000000000
+      internalID: 1378871505308801766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380697b299d4de990800000000000000
+      internalID: -7355137296171442045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89530ba97af8650800000000000000
+      internalID: 6237388291754531027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42266edf271f4cb60800000000000000
+      internalID: 7765597133681877540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c6d30de8687810800000000000000
+      internalID: 1763274621296493537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5563a7b034460780800000000000000
+      internalID: -8717205052698958498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917ac1e46bc624ae0800000000000000
+      internalID: -1566570190121162983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a185c9b5b6eb233c0800000000000000
+      internalID: -4381230119170320358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1c1f6055f4e9d0800000000000000
+      internalID: -2745800146978857303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddbadcb6a3b3efc0800000000000000
+      internalID: -3466729759430754852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c521c10d25a6acef0800000000000000
+      internalID: -87140338868940196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f459cc9aa643e90800000000000000
+      internalID: -7046890239413629132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51053881dae776e40800000000000000
+      internalID: 5649623539465277461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954a125b1b33cd0e0800000000000000
+      internalID: -2243861675996240807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39cba5f1e7d8ea40800000000000000
+      internalID: 5397801518892828987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b4893bff8ccaf0800000000000000
+      internalID: -374766359814032045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ca2ecc7d4160c0800000000000000
+      internalID: -4584297747256261657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf442ac3f399b00800000000000000
+      internalID: 835768735506955729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a15e7640ba8840800000000000000
+      internalID: 5227184134330359839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a1ee54420d17b60800000000000000
+      internalID: 7742198088637225599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2cd16a1c4b5cae0800000000000000
+      internalID: -1529617754613759244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e83f7a08393cb620800000000000000
+      internalID: 2791168781919926502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9029182042e170800000000000000
+      internalID: 8206192011986902732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9bc1e4527f37190800000000000000
+      internalID: -7965751576291919371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bf21485874ba70800000000000000
+      internalID: 8841824288881226677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc209b78ebfd5a0800000000000000
+      internalID: -6494262647511135123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ea1caab01e0270800000000000000
+      internalID: 8218524763935140269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb476070d7f61cfa0800000000000000
+      internalID: -5782217863787547458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519dba16eaf3e3d10800000000000000
+      internalID: 2107191693851482389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302fa835d751cafd0800000000000000
+      internalID: -2329463279240678909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c89be2d97dc17210800000000000000
+      internalID: 1329069288164399304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ee5e6c17eb12270800000000000000
+      internalID: 8224063790432775780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486ac65604b1c0f0800000000000000
+      internalID: -1098398894782781366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c4630aabc85ee0800000000000000
+      internalID: -1272042963670350812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af6b9f4fc09cd20800000000000000
+      internalID: 3299182448326670913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0265b4ccb5b3bad50800000000000000
+      internalID: 6749553732000372256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b432d14bee162c30800000000000000
+      internalID: 4334185687161124020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3101651d0e839c890800000000000000
+      internalID: -7437350771389755373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1621bbf3f1a1360800000000000000
+      internalID: 7141054517731287494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad508c9c004a370800000000000000
+      internalID: 8332786077186513600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46296cc2d678c2730800000000000000
+      internalID: 3975701474033701476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d5e67ebefc57370800000000000000
+      internalID: 8319784498743893346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816a5345b2c19abb0800000000000000
+      internalID: -4924373745130953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bdeccb6744b8030800000000000000
+      internalID: 3497964812347824986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b268980d8674c30800000000000000
+      internalID: 4343555610491890589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7e3d5da3b176a80800000000000000
+      internalID: -8473774234364811343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42a0ea935445e80800000000000000
+      internalID: -8190845708244736776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaee2e7858400030800000000000000
+      internalID: 3458844058731866843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead7c52f17849930800000000000000
+      internalID: 4149089724562660065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977828ca81bd44a0800000000000000
+      internalID: -6607429868660951148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297cf28ef0eb25d20800000000000000
+      internalID: 3265881655326263186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58690c512a9f4a0800000000000000
+      internalID: -6559033167979313716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91510bf91e0ee2000800000000000000
+      internalID: 13195108580070681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efca4eddcd1f6500800000000000000
+      internalID: 391564462639468519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d151c0a72d0b359c0800000000000000
+      internalID: -3939610830981819107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce31c627cc5bbd90800000000000000
+      internalID: -7080963978691526974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef60bbf6cefe8480800000000000000
+      internalID: -8894892083430527001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7b933cab829dea0800000000000000
+      internalID: -5847597858559510594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56c35150e51cf0c0800000000000000
+      internalID: -4540730271115000226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e82a0ebd352ee0800000000000000
+      internalID: -1286554232120875249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f1bee64508ef970800000000000000
+      internalID: 8790604622800297851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5b962c89e0cc30800000000000000
+      internalID: 4377755625956530823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ce7dbdd4279a5f0800000000000000
+      internalID: -744938584626697146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6771833f1863f7430800000000000000
+      internalID: 3782802143773726582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcecfcd82b1a9d050800000000000000
+      internalID: 5825865381235904207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1758e22d600e0d5b0800000000000000
+      internalID: -5345526437788088975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1768e2fcab208660800000000000000
+      internalID: 7385951410697299743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a90a7823d6051b50800000000000000
+      internalID: 6563159535949318567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982e95a7e9905e10800000000000000
+      internalID: 2184415039469791385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa34481a26a030c90800000000000000
+      internalID: -7204903560129789014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de9220d2ca81ebe0800000000000000
+      internalID: -1449725035716370735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800bcb990ae669760800000000000000
+      internalID: 7464275068466278408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4fbce8f43992550800000000000000
+      internalID: 6136597937176442023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dacb401261f64e20800000000000000
+      internalID: 3334617977596922577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109d628f0a614b60800000000000000
+      internalID: 7728575050389753874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7265d99a2e717fa90800000000000000
+      internalID: -7280324010345408985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4961b6524c00bb20800000000000000
+      internalID: 3148029618593818954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a933e8a00720eca0800000000000000
+      internalID: -5989744620615812704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9ea20b5db51930800000000000000
+      internalID: 4113402033257487336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae437724b36db020800000000000000
+      internalID: 2359151405219139241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f9492d8fae2e90800000000000000
+      internalID: -7048503345970285715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d698701a1b4cf20800000000000000
+      internalID: 3442071320392199582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f85edcafe2176c0800000000000000
+      internalID: -4147482127100440772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c2a636c3cb0750800000000000000
+      internalID: 6272322162131124673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03abebc7102b72a0800000000000000
+      internalID: -6738757130852261108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b8f11df0276e20800000000000000
+      internalID: 3343677519646209448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b33077f26ba21a0800000000000000
+      internalID: -6833449169604887748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9750e19fbf59f9d0800000000000000
+      internalID: -2740053621887445089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c803b6b7bd7cf8b80800000000000000
+      internalID: -8390267835285557108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae1ee6ba1ef9c9f0800000000000000
+      internalID: -447547297254990170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996d4fde20e4f80b0800000000000000
+      internalID: -5724270826875464039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b67378011b66960800000000000000
+      internalID: 7594952506153069439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b39950216bfed0800000000000000
+      internalID: -2379201186565473845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f0e618bf4dd750800000000000000
+      internalID: 6331304303229203022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88531e3af3e431900800000000000000
+      internalID: 653952406138205576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778890680a3fae180800000000000000
+      internalID: -9085181427497465737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cae5d94cdcccd80800000000000000
+      internalID: -8228976174775227328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f486170940409380800000000000000
+      internalID: -8966596175698950928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f598413df42dc70800000000000000
+      internalID: 8994339173813542659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a5ce5be0e1bae0800000000000000
+      internalID: -1535198696444681111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4466820b7ea4daca0800000000000000
+      internalID: -6004060369261664700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0f002e061f012a0800000000000000
+      internalID: -6768644841526988568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fe52c6ad5c13a80800000000000000
+      internalID: -8488786280708706473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46041bcafbd4da0800000000000000
+      internalID: -5958895983512230746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d890e850fd8775660800000000000000
+      internalID: 7374495814108711309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b706bbf46c327fae0800000000000000
+      internalID: -1515703414938705797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c48f3c8964fe160800000000000000
+      internalID: 7056936763049659538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9fb63d1b84c0e0800000000000000
+      internalID: -2250520956189565254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce606196b138eb70800000000000000
+      internalID: 8928440921454833349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924986e94d87e2d0800000000000000
+      internalID: -3249473257584639344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2734f7565eac1250800000000000000
+      internalID: 5916795696324032298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ac6288a545c1850800000000000000
+      internalID: 6349042322493590035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b24611da2e0a30800000000000000
+      internalID: 4183328181383771799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10432945d70984d20800000000000000
+      internalID: 3263016797994103809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dad2e1fdcecf1830800000000000000
+      internalID: 4044178374323788505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04754a78e17c70050800000000000000
+      internalID: 5766796781809850176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e8bcdb497980bf0800000000000000
+      internalID: -357869505280766325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2886e45e6024b0800000000000000
+      internalID: -5467248636703789960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b6a50f3583e27c0800000000000000
+      internalID: -4094273078067303639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ada0fba752f8d9c0800000000000000
+      internalID: -3902102618755781213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade68550d68cf4f0800000000000000
+      internalID: -793611204977824352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4298dc0f94443360800000000000000
+      internalID: 7148413958449828427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf33fe839fbcf8e0800000000000000
+      internalID: -1658239922299781194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cc9e312d786e070800000000000000
+      internalID: 8135339113238350895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc6d81f33b66d50800000000000000
+      internalID: 6730263776732827492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a676ce55737f630800000000000000
+      internalID: 3960695239473588831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1eabd1b10ec30e0800000000000000
+      internalID: -2288708103543529035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052971c8d2cbfcb80800000000000000
+      internalID: -8372266278448557488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae03bcbf8a29fa30800000000000000
+      internalID: 4249474520235314862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da711c5fa0e0a70800000000000000
+      internalID: 8794979172923976981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983efa00a7622e620800000000000000
+      internalID: 2801844223617262473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71550133b47444f90800000000000000
+      internalID: -6970367934957857513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18910dfdc1a7cce0800000000000000
+      internalID: -1384960454308030433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478d47c4542c52e70800000000000000
+      internalID: 9089885025808472180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c235d76956a1b90800000000000000
+      internalID: -7270386951414141793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df85d61d76d04e30800000000000000
+      internalID: 4485821061603364819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885bf90b07398b0d0800000000000000
+      internalID: -3406811005896903288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599ceb03811d9910800000000000000
+      internalID: 1845650676830214485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a1edd89c90aac20800000000000000
+      internalID: 3218395644982860301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0654387cda42f0a9c205770917b44
+      internalID: -976116139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81061096efe4f03b2ea508f4704445
+      internalID: 1149381678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c85956c3c7f49c48f601597668fbcc
+      internalID: 1787231925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb92b8819f4c411f863649c282de54a
+      internalID: -1889628936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c486ac90dbbb429d9f5f9e40e184055
+      internalID: 1027653001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e886a14501cb4054abd2bb78862a464
+      internalID: -1991376584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1424d938e54d9ab9753f59c856b4c
+      internalID: -1657776812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6ac08d279d4ced920c6ce509c49c0
+      internalID: -1101483388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebec3a3cac624908a383f470463aac2
+      internalID: 459081094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c739a1a0ad41e281abb12824a52fe
+      internalID: 581653014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8354a539efa428fa97d8798063f33b
+      internalID: -904025420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9fab8136fe84e0a83421a9528c8112
+      internalID: -1948976406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb36f06c684042ef9ee7c4f61f10c47
+      internalID: -1579027119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1aa4f231d99423ba88af8d534df61e
+      internalID: -687946096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695352061f01488c941c0b4a3625c90
+      internalID: -1958323492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ec7649d7c745ca93cd739a61cd4e5
+      internalID: -1197196579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3808cb70aecab412dbea8554983a1126
+      internalID: -1460223027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2af0c1f17ab4026b9449ded18aac57
+      internalID: 2003862299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e52a3156dc24b0b957d4b13cf2e0d8
+      internalID: -926114710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887a6b4f286f4371b63d662633726b3
+      internalID: 105933133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a0fc6323b549108cf7e1b1d897326
+      internalID: 1733450594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60c170a2b774b68a6cba05faf3870a
+      internalID: 1945565983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da27a5e251d84a62892925ebc218912
+      internalID: 2104280048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4e4324888414b4894cba7b3329c183
+      internalID: -840688446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd801288d5e24a4b9379bdd8eba7ee6
+      internalID: 1715620061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace17f987d744db0a733684c76a0afb
+      internalID: 153532204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb9844376eb451f9b07d550a412791
+      internalID: -302193647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_171
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c442f6bac1c415388e6f5f0b04ad1d
+      internalID: 666028600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ab8068239843d799f7c485b62147c
+      internalID: -497754600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f207d65e6d45688343991fa25105b
+      internalID: 2113892815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699e40daa47c40f0b90936a3056f9ff
+      internalID: -1792528980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_175
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c3c9f46227480c9de829931290566
+      internalID: -587205115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081fb49630ab4f1d8635e77a9aa05c3
+      internalID: -428216932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_177
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb016b272bbe40308c90a168cf5b50b
+      internalID: -1878291995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a57b0fa57ef4da69c0559eccf30c53
+      internalID: -816331960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133e3f6e3ace0421eb970292f9b1a511
+      internalID: 1840884615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a36519887e482587322d37c1af6ee
+      internalID: 634216084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1dda86bdd14513b15059cbcae8f09
+      internalID: 193509821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2e2dbefa5c4cf6bea49c27d0221b7
+      internalID: 1708286951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394b4c5fea2946688e0539e675d95c3
+      internalID: 693912998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac16f09dc1fc5471f9772415daa91155
+      internalID: 1273986472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bbee64bb8b4a948c018ae25f91d07
+      internalID: -55977325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cb90ed80c5742769575301a276fc99
+      internalID: 797551021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6a733a5b7d14c75b1d2d9c151d45e8
+      internalID: 706847722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8c47de460e4c68a0c2db58688198e
+      internalID: 519263929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684610e984b0438690380f259e5b30b
+      internalID: 1867885468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28a5cd42cb14349b7d2b860b2e1f86
+      internalID: 484323438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_191
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a10294765e94a179eb93eeee6ca9cb
+      internalID: -1735680148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63dd6b06a5d4c9493d3ff7859de256
+      internalID: -376924660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c659d4766a38429e9525cdaefc32cc3
+      internalID: -639741047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0bd1a69ac3431ba1a463a96277bab
+      internalID: 1875371688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_195
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4f500905d994895a9547079f13c7b9
+      internalID: 1429632583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915adfa66e3254714b1e2a9539b2c1a5
+      internalID: -1163408316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_197
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3998b9a859c46a4b14fcd7707b407a
+      internalID: -1352875694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcbff83f17a845c5875bc8ce7bcf5cc
+      internalID: -450672912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_199
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c395091922594d4f9ab737c879be5ba
+      internalID: -300730519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ba918a016224300ab33c2da0cf0145
+      internalID: 592625978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71364bf1307524a0ba3f4c72631b64c7
+      internalID: 446741873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2283fc29c32146c2aafa456142495e6
+      internalID: 1644703676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c175eebb2bd44596964cffc01c490f6
+      internalID: 1583606719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2229fe8eb4546968ca5c027e0b2e51
+      internalID: 1434462642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0cf14c141d04460b1bd0f886a1bb92
+      internalID: 1289568647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05016a2194432454293ef2806c77c41f
+      internalID: -299515667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e0368d97cc42319309ee67cdc8456
+      internalID: -1383103225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55ee7dc317b410db82e01c0e34d3b1
+      internalID: 2134276813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536d2286abdd495490ec24185383d5f
+      internalID: -1375772361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ea9c5656df42f3ba45694ac97eaab
+      internalID: 2099263588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53987e5e54c4d91815a08a393e3012
+      internalID: 1290307024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8a4a65eba584a44ada32f4cb984593
+      internalID: 448627962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_213
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5da47b1e5614680b70f15fd36ef96e
+      internalID: 838790429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29c22caa6a78459db21efc5913cce81
+      internalID: -1170632661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf973f885dbbd4e04add2e200e03d003
+      internalID: -19204723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91cd161a5e02488d95a68051ab1e2a4
+      internalID: -2079287795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_217
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ad9c33aaf1e4018aae5bbb8fbae940
+      internalID: 28199883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99f480bb7474712b1938841e9f2a61
+      internalID: -478927550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44b4eda871d4ce6b9cf5cec56f6ffe
+      internalID: -1425857531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db54b9b1b8847fb99fa01d0e034dca
+      internalID: 805738114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995359fcebb94b4cab04fc18a4728ea
+      internalID: 304347725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffc14fa54bbf4185a92c84370658110
+      internalID: -113757178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_223
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a271cc98c744639be9ec15dfab3f4
+      internalID: 1614092202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a13966739fae4ff6ab9334693160467
+      internalID: 2146570821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25126b20d3be94b18b286f7171d8e6f6
+      internalID: -1266867104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9669699178594574a09f23dc09de9a7
+      internalID: -1101884598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_227
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cdf2e52e6a4880a2209b2386ebace
+      internalID: 2088038091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e49774a33644d3eb41a736b5176f65
+      internalID: 1251099820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_229
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8de9998ceb64a638f8ca337d3acfaa
+      internalID: 1652403798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44e75949b8e54e91992ad230850cdec
+      internalID: -1624315385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_231
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7d1a12096840dabf1b5b7fc32a23f
+      internalID: -361162339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_232
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b41dcb1cc8b443e91fb573e9db22bf
+      internalID: 816689653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_233
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ca0de2ec7b42cfa4248f240cefdcf
+      internalID: -229829884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cd30a2c4914bccb751ef9f191927e
+      internalID: 948992901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_235
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c852014ca2bf4cfe9b46d76a20175ed
+      internalID: -28821558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad18d20588f845249771db58ffeb0a4
+      internalID: -693588537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_237
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbcbb7a20d554b5ba72a7f3493d5025
+      internalID: 124772894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0714f1753e7a14751b0871b7b2b1e889
+      internalID: -1731988123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_239
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3531de1be534446c8ceffaff8a4e99d
+      internalID: 1556168494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367b0bc8c541479d96e120c29ca0586
+      internalID: -2041291060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_241
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1cb6d974ef44b8a83c378aa987a1e
+      internalID: -168347015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f01f3c9f5f746afa3f4207f3584786
+      internalID: 1732586336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_243
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817a88a63a0f4b13be750e144bc96e3
+      internalID: -181011019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8db589f695419784f3fdda63a68e5
+      internalID: 870738511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_245
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61157f37f8d544f569b97812631de4a1
+      internalID: 1333334137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b77db4fb87441b28b881729e4401b5
+      internalID: 1865385931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_247
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be29f495c084debb4b25647fbc6f6b
+      internalID: 787149753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_248
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a871b92d144d6c9a549d6422b3a6e
+      internalID: 116501983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c21436382043f3b2423126a9d8141
+      internalID: 197052190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb606383d6549b9bccfdbe24ca4207
+      internalID: -1944309567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_251
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec9f082229f4d4d88f38c7f3d38d27
+      internalID: 429721007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_252
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41d8f4c79eb477da1131ec71c60742
+      internalID: 762441018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_253
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd9e5104dcd9421b949882c4d88bf2b
+      internalID: -562107785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_254
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44959e3326984ecfb3b7df4cade3bd9
+      internalID: -1565627974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_255
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee81ea36a8f04d2f9feaf07563a32fd
+      internalID: 1865463992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_256
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f683c982709c4f17b4ef099cba0474e
+      internalID: 805093904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_257
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9abcbad5a2444082ccc85f3eb3406
+      internalID: 1611287981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c873b585d3902427c907dc8f38ba8707
+      internalID: -1184135682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_259
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de487ea9cc7f84a6eb590ed3103c4191
+      internalID: 126572850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43baa0f4351444410a28be8310a82446
+      internalID: 1447169582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_261
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ee14ddb75b4b04bee4bb03575dc6c
+      internalID: 309924891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_262
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8e02a934728470e8824c279f394c6d
+      internalID: 347660181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_263
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cc8ac1bb643448ea5bae5ba9e1756e
+      internalID: -1693707532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_264
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc4c409e0b343cb97268dadda8a406
+      internalID: -1868166090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_265
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07a05f1a47c486198e7bae0d1e0e45
+      internalID: 1211049159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_266
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c6e6b14a6a9478a988de38c53e2f56
+      internalID: 1516663749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_267
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3cabacf4204ad28bb4a497c1440e3
+      internalID: 1597888609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_268
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db77e8f59b09c40e195cb5302554bb6b
+      internalID: 1903169071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_269
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b19ee303cc94737b45aff2ea54b057
+      internalID: 871450898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d011f5ddf90485dbba5269701c6738
+      internalID: 1842322017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_271
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b7a5b5d1a242d5974a2e0a229a281
+      internalID: 1779913923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_272
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9a5aaa7f91e444bb26545ca4f34771
+      internalID: -698033975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_273
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a65951ab40042d59d57b0512ac448c
+      internalID: -1003445751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1075221e145f24f4aadb530b1635b612
+      internalID: 1692097055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_275
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfa70597c864cb2b1fa390601da7c3
+      internalID: 1534696242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_276
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000a3e83ce70409b9226181174a4360
+      internalID: -74724101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_277
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6a8821a91a4da49192b7b2bbb18ea
+      internalID: 802762697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_278
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb7d7e1f5024f47bf472f3b6012b8d
+      internalID: 1699002308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16_Jerom_CC-BY-SA-3.0_279
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08964dd18dc2c4967a2df082f6dd78d2
+      internalID: 1866120124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 23f172bbaf03647c798833e28d002b2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      16x16_Jerom_CC-BY-SA-3.0_0: -7262143722722750184
+      16x16_Jerom_CC-BY-SA-3.0_1: 4837346708838309400
+      16x16_Jerom_CC-BY-SA-3.0_10: -8717205052698958498
+      16x16_Jerom_CC-BY-SA-3.0_100: -9085181427497465737
+      16x16_Jerom_CC-BY-SA-3.0_101: -8228976174775227328
+      16x16_Jerom_CC-BY-SA-3.0_102: -8966596175698950928
+      16x16_Jerom_CC-BY-SA-3.0_103: 8994339173813542659
+      16x16_Jerom_CC-BY-SA-3.0_104: -1535198696444681111
+      16x16_Jerom_CC-BY-SA-3.0_105: -6004060369261664700
+      16x16_Jerom_CC-BY-SA-3.0_106: -6768644841526988568
+      16x16_Jerom_CC-BY-SA-3.0_107: -8488786280708706473
+      16x16_Jerom_CC-BY-SA-3.0_108: -5958895983512230746
+      16x16_Jerom_CC-BY-SA-3.0_109: 7374495814108711309
+      16x16_Jerom_CC-BY-SA-3.0_11: -1566570190121162983
+      16x16_Jerom_CC-BY-SA-3.0_110: -1515703414938705797
+      16x16_Jerom_CC-BY-SA-3.0_111: 7056936763049659538
+      16x16_Jerom_CC-BY-SA-3.0_112: -2250520956189565254
+      16x16_Jerom_CC-BY-SA-3.0_113: 8928440921454833349
+      16x16_Jerom_CC-BY-SA-3.0_114: -3249473257584639344
+      16x16_Jerom_CC-BY-SA-3.0_115: 5916795696324032298
+      16x16_Jerom_CC-BY-SA-3.0_116: 6349042322493590035
+      16x16_Jerom_CC-BY-SA-3.0_117: 4183328181383771799
+      16x16_Jerom_CC-BY-SA-3.0_118: 3263016797994103809
+      16x16_Jerom_CC-BY-SA-3.0_119: 4044178374323788505
+      16x16_Jerom_CC-BY-SA-3.0_12: -4381230119170320358
+      16x16_Jerom_CC-BY-SA-3.0_120: 5766796781809850176
+      16x16_Jerom_CC-BY-SA-3.0_121: -357869505280766325
+      16x16_Jerom_CC-BY-SA-3.0_122: -5467248636703789960
+      16x16_Jerom_CC-BY-SA-3.0_123: -4094273078067303639
+      16x16_Jerom_CC-BY-SA-3.0_124: -3902102618755781213
+      16x16_Jerom_CC-BY-SA-3.0_125: -793611204977824352
+      16x16_Jerom_CC-BY-SA-3.0_126: 7148413958449828427
+      16x16_Jerom_CC-BY-SA-3.0_127: -1658239922299781194
+      16x16_Jerom_CC-BY-SA-3.0_128: 8135339113238350895
+      16x16_Jerom_CC-BY-SA-3.0_129: 6730263776732827492
+      16x16_Jerom_CC-BY-SA-3.0_13: -2745800146978857303
+      16x16_Jerom_CC-BY-SA-3.0_130: 3960695239473588831
+      16x16_Jerom_CC-BY-SA-3.0_131: -2288708103543529035
+      16x16_Jerom_CC-BY-SA-3.0_132: -8372266278448557488
+      16x16_Jerom_CC-BY-SA-3.0_133: 4249474520235314862
+      16x16_Jerom_CC-BY-SA-3.0_134: 8794979172923976981
+      16x16_Jerom_CC-BY-SA-3.0_135: 2801844223617262473
+      16x16_Jerom_CC-BY-SA-3.0_136: -6970367934957857513
+      16x16_Jerom_CC-BY-SA-3.0_137: -1384960454308030433
+      16x16_Jerom_CC-BY-SA-3.0_138: 9089885025808472180
+      16x16_Jerom_CC-BY-SA-3.0_139: -7270386951414141793
+      16x16_Jerom_CC-BY-SA-3.0_14: -3466729759430754852
+      16x16_Jerom_CC-BY-SA-3.0_140: 4485821061603364819
+      16x16_Jerom_CC-BY-SA-3.0_141: -3406811005896903288
+      16x16_Jerom_CC-BY-SA-3.0_142: 1845650676830214485
+      16x16_Jerom_CC-BY-SA-3.0_143: 3218395644982860301
+      16x16_Jerom_CC-BY-SA-3.0_144: -976116139
+      16x16_Jerom_CC-BY-SA-3.0_145: 1149381678
+      16x16_Jerom_CC-BY-SA-3.0_146: 1787231925
+      16x16_Jerom_CC-BY-SA-3.0_147: -1889628936
+      16x16_Jerom_CC-BY-SA-3.0_148: 1027653001
+      16x16_Jerom_CC-BY-SA-3.0_149: -1991376584
+      16x16_Jerom_CC-BY-SA-3.0_15: -87140338868940196
+      16x16_Jerom_CC-BY-SA-3.0_150: -1657776812
+      16x16_Jerom_CC-BY-SA-3.0_151: -1101483388
+      16x16_Jerom_CC-BY-SA-3.0_152: 459081094
+      16x16_Jerom_CC-BY-SA-3.0_153: 581653014
+      16x16_Jerom_CC-BY-SA-3.0_154: -904025420
+      16x16_Jerom_CC-BY-SA-3.0_155: -1948976406
+      16x16_Jerom_CC-BY-SA-3.0_156: -1579027119
+      16x16_Jerom_CC-BY-SA-3.0_157: -687946096
+      16x16_Jerom_CC-BY-SA-3.0_158: -1958323492
+      16x16_Jerom_CC-BY-SA-3.0_159: -1197196579
+      16x16_Jerom_CC-BY-SA-3.0_16: -7046890239413629132
+      16x16_Jerom_CC-BY-SA-3.0_160: -1460223027
+      16x16_Jerom_CC-BY-SA-3.0_161: 2003862299
+      16x16_Jerom_CC-BY-SA-3.0_162: -926114710
+      16x16_Jerom_CC-BY-SA-3.0_163: 105933133
+      16x16_Jerom_CC-BY-SA-3.0_164: 1733450594
+      16x16_Jerom_CC-BY-SA-3.0_165: 1945565983
+      16x16_Jerom_CC-BY-SA-3.0_166: 2104280048
+      16x16_Jerom_CC-BY-SA-3.0_167: -840688446
+      16x16_Jerom_CC-BY-SA-3.0_168: 1715620061
+      16x16_Jerom_CC-BY-SA-3.0_169: 153532204
+      16x16_Jerom_CC-BY-SA-3.0_17: 5649623539465277461
+      16x16_Jerom_CC-BY-SA-3.0_170: -302193647
+      16x16_Jerom_CC-BY-SA-3.0_171: 666028600
+      16x16_Jerom_CC-BY-SA-3.0_172: -497754600
+      16x16_Jerom_CC-BY-SA-3.0_173: 2113892815
+      16x16_Jerom_CC-BY-SA-3.0_174: -1792528980
+      16x16_Jerom_CC-BY-SA-3.0_175: -587205115
+      16x16_Jerom_CC-BY-SA-3.0_176: -428216932
+      16x16_Jerom_CC-BY-SA-3.0_177: -1878291995
+      16x16_Jerom_CC-BY-SA-3.0_178: -816331960
+      16x16_Jerom_CC-BY-SA-3.0_179: 1840884615
+      16x16_Jerom_CC-BY-SA-3.0_18: -2243861675996240807
+      16x16_Jerom_CC-BY-SA-3.0_180: 634216084
+      16x16_Jerom_CC-BY-SA-3.0_181: 193509821
+      16x16_Jerom_CC-BY-SA-3.0_182: 1708286951
+      16x16_Jerom_CC-BY-SA-3.0_183: 693912998
+      16x16_Jerom_CC-BY-SA-3.0_184: 1273986472
+      16x16_Jerom_CC-BY-SA-3.0_185: -55977325
+      16x16_Jerom_CC-BY-SA-3.0_186: 797551021
+      16x16_Jerom_CC-BY-SA-3.0_187: 706847722
+      16x16_Jerom_CC-BY-SA-3.0_188: 519263929
+      16x16_Jerom_CC-BY-SA-3.0_189: 1867885468
+      16x16_Jerom_CC-BY-SA-3.0_19: 5397801518892828987
+      16x16_Jerom_CC-BY-SA-3.0_190: 484323438
+      16x16_Jerom_CC-BY-SA-3.0_191: -1735680148
+      16x16_Jerom_CC-BY-SA-3.0_192: -376924660
+      16x16_Jerom_CC-BY-SA-3.0_193: -639741047
+      16x16_Jerom_CC-BY-SA-3.0_194: 1875371688
+      16x16_Jerom_CC-BY-SA-3.0_195: 1429632583
+      16x16_Jerom_CC-BY-SA-3.0_196: -1163408316
+      16x16_Jerom_CC-BY-SA-3.0_197: -1352875694
+      16x16_Jerom_CC-BY-SA-3.0_198: -450672912
+      16x16_Jerom_CC-BY-SA-3.0_199: -300730519
+      16x16_Jerom_CC-BY-SA-3.0_2: -493856390467994156
+      16x16_Jerom_CC-BY-SA-3.0_20: -374766359814032045
+      16x16_Jerom_CC-BY-SA-3.0_200: 592625978
+      16x16_Jerom_CC-BY-SA-3.0_201: 446741873
+      16x16_Jerom_CC-BY-SA-3.0_202: 1644703676
+      16x16_Jerom_CC-BY-SA-3.0_203: 1583606719
+      16x16_Jerom_CC-BY-SA-3.0_204: 1434462642
+      16x16_Jerom_CC-BY-SA-3.0_205: 1289568647
+      16x16_Jerom_CC-BY-SA-3.0_206: -299515667
+      16x16_Jerom_CC-BY-SA-3.0_207: -1383103225
+      16x16_Jerom_CC-BY-SA-3.0_208: 2134276813
+      16x16_Jerom_CC-BY-SA-3.0_209: -1375772361
+      16x16_Jerom_CC-BY-SA-3.0_21: -4584297747256261657
+      16x16_Jerom_CC-BY-SA-3.0_210: 2099263588
+      16x16_Jerom_CC-BY-SA-3.0_211: 1290307024
+      16x16_Jerom_CC-BY-SA-3.0_212: 448627962
+      16x16_Jerom_CC-BY-SA-3.0_213: 838790429
+      16x16_Jerom_CC-BY-SA-3.0_214: -1170632661
+      16x16_Jerom_CC-BY-SA-3.0_215: -19204723
+      16x16_Jerom_CC-BY-SA-3.0_216: -2079287795
+      16x16_Jerom_CC-BY-SA-3.0_217: 28199883
+      16x16_Jerom_CC-BY-SA-3.0_218: -478927550
+      16x16_Jerom_CC-BY-SA-3.0_219: -1425857531
+      16x16_Jerom_CC-BY-SA-3.0_22: 835768735506955729
+      16x16_Jerom_CC-BY-SA-3.0_220: 805738114
+      16x16_Jerom_CC-BY-SA-3.0_221: 304347725
+      16x16_Jerom_CC-BY-SA-3.0_222: -113757178
+      16x16_Jerom_CC-BY-SA-3.0_223: 1614092202
+      16x16_Jerom_CC-BY-SA-3.0_224: 2146570821
+      16x16_Jerom_CC-BY-SA-3.0_225: -1266867104
+      16x16_Jerom_CC-BY-SA-3.0_226: -1101884598
+      16x16_Jerom_CC-BY-SA-3.0_227: 2088038091
+      16x16_Jerom_CC-BY-SA-3.0_228: 1251099820
+      16x16_Jerom_CC-BY-SA-3.0_229: 1652403798
+      16x16_Jerom_CC-BY-SA-3.0_23: 5227184134330359839
+      16x16_Jerom_CC-BY-SA-3.0_230: -1624315385
+      16x16_Jerom_CC-BY-SA-3.0_231: -361162339
+      16x16_Jerom_CC-BY-SA-3.0_232: 816689653
+      16x16_Jerom_CC-BY-SA-3.0_233: -229829884
+      16x16_Jerom_CC-BY-SA-3.0_234: 948992901
+      16x16_Jerom_CC-BY-SA-3.0_235: -28821558
+      16x16_Jerom_CC-BY-SA-3.0_236: -693588537
+      16x16_Jerom_CC-BY-SA-3.0_237: 124772894
+      16x16_Jerom_CC-BY-SA-3.0_238: -1731988123
+      16x16_Jerom_CC-BY-SA-3.0_239: 1556168494
+      16x16_Jerom_CC-BY-SA-3.0_24: 7742198088637225599
+      16x16_Jerom_CC-BY-SA-3.0_240: -2041291060
+      16x16_Jerom_CC-BY-SA-3.0_241: -168347015
+      16x16_Jerom_CC-BY-SA-3.0_242: 1732586336
+      16x16_Jerom_CC-BY-SA-3.0_243: -181011019
+      16x16_Jerom_CC-BY-SA-3.0_244: 870738511
+      16x16_Jerom_CC-BY-SA-3.0_245: 1333334137
+      16x16_Jerom_CC-BY-SA-3.0_246: 1865385931
+      16x16_Jerom_CC-BY-SA-3.0_247: 787149753
+      16x16_Jerom_CC-BY-SA-3.0_248: 116501983
+      16x16_Jerom_CC-BY-SA-3.0_249: 197052190
+      16x16_Jerom_CC-BY-SA-3.0_25: -1529617754613759244
+      16x16_Jerom_CC-BY-SA-3.0_250: -1944309567
+      16x16_Jerom_CC-BY-SA-3.0_251: 429721007
+      16x16_Jerom_CC-BY-SA-3.0_252: 762441018
+      16x16_Jerom_CC-BY-SA-3.0_253: -562107785
+      16x16_Jerom_CC-BY-SA-3.0_254: -1565627974
+      16x16_Jerom_CC-BY-SA-3.0_255: 1865463992
+      16x16_Jerom_CC-BY-SA-3.0_256: 805093904
+      16x16_Jerom_CC-BY-SA-3.0_257: 1611287981
+      16x16_Jerom_CC-BY-SA-3.0_258: -1184135682
+      16x16_Jerom_CC-BY-SA-3.0_259: 126572850
+      16x16_Jerom_CC-BY-SA-3.0_26: 2791168781919926502
+      16x16_Jerom_CC-BY-SA-3.0_260: 1447169582
+      16x16_Jerom_CC-BY-SA-3.0_261: 309924891
+      16x16_Jerom_CC-BY-SA-3.0_262: 347660181
+      16x16_Jerom_CC-BY-SA-3.0_263: -1693707532
+      16x16_Jerom_CC-BY-SA-3.0_264: -1868166090
+      16x16_Jerom_CC-BY-SA-3.0_265: 1211049159
+      16x16_Jerom_CC-BY-SA-3.0_266: 1516663749
+      16x16_Jerom_CC-BY-SA-3.0_267: 1597888609
+      16x16_Jerom_CC-BY-SA-3.0_268: 1903169071
+      16x16_Jerom_CC-BY-SA-3.0_269: 871450898
+      16x16_Jerom_CC-BY-SA-3.0_27: 8206192011986902732
+      16x16_Jerom_CC-BY-SA-3.0_270: 1842322017
+      16x16_Jerom_CC-BY-SA-3.0_271: 1779913923
+      16x16_Jerom_CC-BY-SA-3.0_272: -698033975
+      16x16_Jerom_CC-BY-SA-3.0_273: -1003445751
+      16x16_Jerom_CC-BY-SA-3.0_274: 1692097055
+      16x16_Jerom_CC-BY-SA-3.0_275: 1534696242
+      16x16_Jerom_CC-BY-SA-3.0_276: -74724101
+      16x16_Jerom_CC-BY-SA-3.0_277: 802762697
+      16x16_Jerom_CC-BY-SA-3.0_278: 1699002308
+      16x16_Jerom_CC-BY-SA-3.0_279: 1866120124
+      16x16_Jerom_CC-BY-SA-3.0_28: -7965751576291919371
+      16x16_Jerom_CC-BY-SA-3.0_29: 8841824288881226677
+      16x16_Jerom_CC-BY-SA-3.0_3: 3212680699694634285
+      16x16_Jerom_CC-BY-SA-3.0_30: -6494262647511135123
+      16x16_Jerom_CC-BY-SA-3.0_31: 8218524763935140269
+      16x16_Jerom_CC-BY-SA-3.0_32: -5782217863787547458
+      16x16_Jerom_CC-BY-SA-3.0_33: 2107191693851482389
+      16x16_Jerom_CC-BY-SA-3.0_34: -2329463279240678909
+      16x16_Jerom_CC-BY-SA-3.0_35: 1329069288164399304
+      16x16_Jerom_CC-BY-SA-3.0_36: 8224063790432775780
+      16x16_Jerom_CC-BY-SA-3.0_37: -1098398894782781366
+      16x16_Jerom_CC-BY-SA-3.0_38: -1272042963670350812
+      16x16_Jerom_CC-BY-SA-3.0_39: 3299182448326670913
+      16x16_Jerom_CC-BY-SA-3.0_4: 140916944502082199
+      16x16_Jerom_CC-BY-SA-3.0_40: 6749553732000372256
+      16x16_Jerom_CC-BY-SA-3.0_41: 4334185687161124020
+      16x16_Jerom_CC-BY-SA-3.0_42: -7437350771389755373
+      16x16_Jerom_CC-BY-SA-3.0_43: 7141054517731287494
+      16x16_Jerom_CC-BY-SA-3.0_44: 8332786077186513600
+      16x16_Jerom_CC-BY-SA-3.0_45: 3975701474033701476
+      16x16_Jerom_CC-BY-SA-3.0_46: 8319784498743893346
+      16x16_Jerom_CC-BY-SA-3.0_47: -4924373745130953192
+      16x16_Jerom_CC-BY-SA-3.0_48: 3497964812347824986
+      16x16_Jerom_CC-BY-SA-3.0_49: 4343555610491890589
+      16x16_Jerom_CC-BY-SA-3.0_5: 1378871505308801766
+      16x16_Jerom_CC-BY-SA-3.0_50: -8473774234364811343
+      16x16_Jerom_CC-BY-SA-3.0_51: -8190845708244736776
+      16x16_Jerom_CC-BY-SA-3.0_52: 3458844058731866843
+      16x16_Jerom_CC-BY-SA-3.0_53: 4149089724562660065
+      16x16_Jerom_CC-BY-SA-3.0_54: -6607429868660951148
+      16x16_Jerom_CC-BY-SA-3.0_55: 3265881655326263186
+      16x16_Jerom_CC-BY-SA-3.0_56: -6559033167979313716
+      16x16_Jerom_CC-BY-SA-3.0_57: 13195108580070681
+      16x16_Jerom_CC-BY-SA-3.0_58: 391564462639468519
+      16x16_Jerom_CC-BY-SA-3.0_59: -3939610830981819107
+      16x16_Jerom_CC-BY-SA-3.0_6: -7355137296171442045
+      16x16_Jerom_CC-BY-SA-3.0_60: -7080963978691526974
+      16x16_Jerom_CC-BY-SA-3.0_61: -8894892083430527001
+      16x16_Jerom_CC-BY-SA-3.0_62: -5847597858559510594
+      16x16_Jerom_CC-BY-SA-3.0_63: -4540730271115000226
+      16x16_Jerom_CC-BY-SA-3.0_64: -1286554232120875249
+      16x16_Jerom_CC-BY-SA-3.0_65: 8790604622800297851
+      16x16_Jerom_CC-BY-SA-3.0_66: 4377755625956530823
+      16x16_Jerom_CC-BY-SA-3.0_67: -744938584626697146
+      16x16_Jerom_CC-BY-SA-3.0_68: 3782802143773726582
+      16x16_Jerom_CC-BY-SA-3.0_69: 5825865381235904207
+      16x16_Jerom_CC-BY-SA-3.0_7: 6237388291754531027
+      16x16_Jerom_CC-BY-SA-3.0_70: -5345526437788088975
+      16x16_Jerom_CC-BY-SA-3.0_71: 7385951410697299743
+      16x16_Jerom_CC-BY-SA-3.0_72: 6563159535949318567
+      16x16_Jerom_CC-BY-SA-3.0_73: 2184415039469791385
+      16x16_Jerom_CC-BY-SA-3.0_74: -7204903560129789014
+      16x16_Jerom_CC-BY-SA-3.0_75: -1449725035716370735
+      16x16_Jerom_CC-BY-SA-3.0_76: 7464275068466278408
+      16x16_Jerom_CC-BY-SA-3.0_77: 6136597937176442023
+      16x16_Jerom_CC-BY-SA-3.0_78: 3334617977596922577
+      16x16_Jerom_CC-BY-SA-3.0_79: 7728575050389753874
+      16x16_Jerom_CC-BY-SA-3.0_8: 7765597133681877540
+      16x16_Jerom_CC-BY-SA-3.0_80: -7280324010345408985
+      16x16_Jerom_CC-BY-SA-3.0_81: 3148029618593818954
+      16x16_Jerom_CC-BY-SA-3.0_82: -5989744620615812704
+      16x16_Jerom_CC-BY-SA-3.0_83: 4113402033257487336
+      16x16_Jerom_CC-BY-SA-3.0_84: 2359151405219139241
+      16x16_Jerom_CC-BY-SA-3.0_85: -7048503345970285715
+      16x16_Jerom_CC-BY-SA-3.0_86: 3442071320392199582
+      16x16_Jerom_CC-BY-SA-3.0_87: -4147482127100440772
+      16x16_Jerom_CC-BY-SA-3.0_88: 6272322162131124673
+      16x16_Jerom_CC-BY-SA-3.0_89: -6738757130852261108
+      16x16_Jerom_CC-BY-SA-3.0_9: 1763274621296493537
+      16x16_Jerom_CC-BY-SA-3.0_90: 3343677519646209448
+      16x16_Jerom_CC-BY-SA-3.0_91: -6833449169604887748
+      16x16_Jerom_CC-BY-SA-3.0_92: -2740053621887445089
+      16x16_Jerom_CC-BY-SA-3.0_93: -8390267835285557108
+      16x16_Jerom_CC-BY-SA-3.0_94: -447547297254990170
+      16x16_Jerom_CC-BY-SA-3.0_95: -5724270826875464039
+      16x16_Jerom_CC-BY-SA-3.0_96: 7594952506153069439
+      16x16_Jerom_CC-BY-SA-3.0_97: -2379201186565473845
+      16x16_Jerom_CC-BY-SA-3.0_98: 6331304303229203022
+      16x16_Jerom_CC-BY-SA-3.0_99: 653952406138205576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
